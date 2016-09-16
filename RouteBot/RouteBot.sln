@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBot", "RouteBot\RouteBot.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexAPI", "..\YandexAPI\YandexAPI\YandexAPI.csproj", "{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC34E3D-8BD0-48F1-8D2B-5474179FCB79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

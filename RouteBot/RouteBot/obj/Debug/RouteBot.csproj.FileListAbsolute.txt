@@ -76,3 +76,42 @@ C:\Users\Anton Begun\Documents\GitHub\DevConSchool\RouteBot\RouteBot\bin\zh-hans
 C:\Users\Anton Begun\Documents\GitHub\DevConSchool\RouteBot\RouteBot\obj\Debug\RouteBot.csprojResolveAssemblyReference.cache
 C:\Users\Anton Begun\Documents\GitHub\DevConSchool\RouteBot\RouteBot\obj\Debug\Bot Application1.dll
 C:\Users\Anton Begun\Documents\GitHub\DevConSchool\RouteBot\RouteBot\obj\Debug\Bot Application1.pdb
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\RouteBot.dll.config
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\RouteBot.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\RouteBot.pdb
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Autofac.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Chronic.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Newtonsoft.Json.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Net.Http.Formatting.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Web.Http.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Web.Http.WebHost.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Autofac.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\Newtonsoft.Json.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Net.Http.Formatting.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Web.Http.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\System.Web.Http.WebHost.xml
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.csprojResolveAssemblyReference.cache
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.pdb

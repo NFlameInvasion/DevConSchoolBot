@@ -1,0 +1,3 @@
+[submodule "YandexAPI"]
+	path = YandexAPI
+	url = https://github.com/kidinfo/YandexAPI.git
