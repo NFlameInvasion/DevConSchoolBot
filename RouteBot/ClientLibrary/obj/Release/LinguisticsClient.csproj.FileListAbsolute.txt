@@ -1,6 +1,0 @@
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\bin\Release\Microsoft.ProjectOxford.Linguistics.dll
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\bin\Release\Microsoft.ProjectOxford.Linguistics.pdb
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\bin\Release\Newtonsoft.Json.dll
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\bin\Release\Newtonsoft.Json.xml
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\obj\Release\Microsoft.ProjectOxford.Linguistics.dll
-D:\Work\Projects\DevConSchool\Dev\MyBot\ClientLibrary\obj\Release\Microsoft.ProjectOxford.Linguistics.pdb
