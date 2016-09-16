@@ -1,0 +1,42 @@
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Data\data.txt
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Bot Application1.dll.config
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Bot Application1.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Bot Application1.pdb
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Autofac.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Chronic.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Bot.Builder.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Bot.Connector.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.ProjectOxford.Linguistics.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Newtonsoft.Json.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Net.Http.Formatting.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Web.Http.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Web.Http.WebHost.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.ProjectOxford.Linguistics.pdb
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Autofac.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Bot.Builder.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Bot.Connector.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\Newtonsoft.Json.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Net.Http.Formatting.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Web.Http.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\System.Web.Http.WebHost.xml
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\obj\Debug\TokenBot.csprojResolveAssemblyReference.cache
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\obj\Debug\Bot Application1.dll
+D:\Work\Projects\DevConSchool\Dev\MyBot\MyBot\obj\Debug\Bot Application1.pdb
