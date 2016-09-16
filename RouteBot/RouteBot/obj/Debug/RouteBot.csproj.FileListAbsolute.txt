@@ -115,3 +115,5 @@ C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\zh-hans\Microsoft.Bot.Builder.
 C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.csprojResolveAssemblyReference.cache
 C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.dll
 C:\Projects\DevConSchoolBot\RouteBot\RouteBot\obj\Debug\RouteBot.pdb
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\YandexAPI.dll
+C:\Projects\DevConSchoolBot\RouteBot\RouteBot\bin\YandexAPI.pdb

@@ -94,9 +94,8 @@ namespace RouteBot.Dialogs
                 return @"Hello, you could ask me about best route";
             }
 
-            //GetFrom the telegram
-            //routeData.FromLocation
-
+            //Enough for the demo :))
+            routeData.FromLocation = "Алабяна 3к1";
             routeData.ToLocation = msg;
 
             var response = await dataService.Get(routeData);
